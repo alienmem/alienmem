@@ -2,7 +2,7 @@
 - 👀 I’m interested in Mathematics, coding and, unrelated but true, cinema!
 - 🌱 I’m currently learning C.
 - 💞️ I’m looking to collaborate on an app
-- 📫 You Can reach me at tony101123cardoso@icloud.com
+- 📫 You can reach me at tony101123cardoso@icloud.com
 
 
 <!---
