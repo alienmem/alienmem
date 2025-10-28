@@ -4,7 +4,7 @@
 
 *"Most developers learn frameworks. I'm learning how computers actually work."*
 
-**Currently:** C Piscine exercises • Python for Everybody • Building fundamentals
+**Currently:** C programming (42 School) • Python & DSA • CS fundamentals
 
 [📧 tony101123cardoso@icloud.com](mailto:tony101123cardoso@icloud.com) • [💼 LinkedIn](your-linkedin-link)
 
