@@ -1,10 +1,8 @@
 # Hi, I’m Antonio Cardoso 👋
 
-**Mathematician → Software Engineer | Building from First Principles**
+**Mathematician → Software Engineer**
 
-*“Most developers learn frameworks. I’m learning how computers actually work.”*
-
-**Currently:** C programming (42 School) • Python & DSA • CS fundamentals
+*“Most developers learn frameworks. I’m learning how computers work.”*
 
 📧 [tony101123cardoso@icloud.com](mailto:tony101123cardoso@icloud.com) • 💼 [LinkedIn](your-linkedin-link)
 
@@ -12,61 +10,27 @@
 
 ## What I’m About
 
-I’m taking the unconventional path: **rigorous fundamentals before abstractions**. Instead of rushing to frameworks, I’m:
+I’m taking the unconventional path: **rigorous fundamentals before abstractions**.
 
-- Writing C through School 42’s curriculum (self-study) to understand memory, pointers, and system-level programming
-- Building Python fundamentals through structured coursework
-- Mastering SQL and databases (completed Harvard’s CS50-SQL)
-- Understanding how computers work from the ground up
+Instead of rushing to frameworks, I’m building from the ground up—writing C to understand memory and pointers, mastering SQL before ORMs, learning why algorithms work instead of memorizing patterns.
 
 **Why?** Mathematics taught me that shortcuts hide crucial details. In software, those details are where performance lives and bugs hide.
 
 -----
 
-## Two Learning Paths
+## Learning Paths
 
-<table>
-<tr>
-<td width="50%" valign="top">
+**Systems Programming** — School 42 (Self-Study)  
+[42-school-roadmap](https://github.com/alienmem/42-school-roadmap) — C Piscine exercises  
+Focus: Memory management, pointers, low-level systems
 
-**Systems Programming**  
-*School 42 (Self-Study)*
-
-**Active:**
-
-- [42-school-roadmap](https://github.com/alienmem/42-school-roadmap) — C Piscine
-
-**Learning:** Memory, pointers, low-level systems
-
-</td>
-<td width="50%" valign="top">
-
-**Software Engineering**  
-*10-Month Roadmap*
-
-**Active:**
-
-- Python for Everybody
-- CS50-SQL (Harvard) ✓
-
-**Learning:** Python, DSA, web development
-
-</td>
-</tr>
-</table>
+**Software Engineering** — 10-Month Roadmap  
+Python for Everybody (active) • CS50-SQL Harvard (completed ✓)  
+Focus: Python, DSA, web development
 
 -----
 
-## Featured Work
-
-**CS50-SQL (Harvard)** ✓  
-Complete database course covering relational modeling, query optimization, and normalization.
-
-**Skills:** SQL • Database Design • Query Optimization
-
------
-
-## Current Stack
+## Stack
 
 **Languages:** C • Python • SQL  
 **Tools:** Git • Linux • Neovim • PostgreSQL  
@@ -78,38 +42,25 @@ Complete database course covering relational modeling, query optimization, and n
 
 **B.S. Mathematics** — Faculdade de Ciências da Universidade do Porto
 
-Mathematics taught me rigorous problem-solving and proof-based thinking. Now I’m applying that to building reliable, efficient software by mastering fundamentals first.
+Mathematics taught me rigorous problem-solving and proof-based thinking. Now I’m applying that to software by mastering fundamentals first.
 
 **Certification:** Cisco C Essentials I
 
 -----
 
-## What’s Next
+## Goal
 
-**Right Now:**
-
-- Completing Python for Everybody
-- C Piscine exercises daily
-- First project: CLI Task Manager
-
-**This Year:**
-
-- 250-300 LeetCode problems
-- 6 production-ready full-stack projects
-- Backend (FastAPI/PostgreSQL) + Frontend (React/Next.js)
-
-**Goal:** Job-ready software engineer with deep fundamentals and proven ability to ship.
+Job-ready software engineer with deep fundamentals. Building toward 6 production projects and 250+ LeetCode problems this year.
 
 -----
 
-## Let’s Connect
+## Connect
 
-I’m open to code reviews, mentorship, and discussions about CS fundamentals or systems programming.
+Open to code reviews, mentorship, discussions about fundamentals or systems programming.
 
-**Reach me:**  
 📧 [tony101123cardoso@icloud.com](mailto:tony101123cardoso@icloud.com) • 💼 [LinkedIn](your-linkedin-link)
 
-**Location:** Relocating to Bridgeport, CT • Open to remote
+**Relocating to Bridgeport, CT**
 
 -----
 
@@ -118,4 +69,3 @@ I’m open to code reviews, mentorship, and discussions about CS fundamentals or
 *“First, solve the problem. Then, write the code.”*
 
 </div>
-
