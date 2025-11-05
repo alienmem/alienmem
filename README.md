@@ -20,17 +20,19 @@ Instead of rushing to frameworks, I’m building from the ground up—writing C 
 
 ## Learning Paths
 
-**Systems Programming** — School 42 (Self-Study)  
+### Systems Programming — School 42 (Self-Study)
 [42-school-roadmap](https://github.com/alienmem/42-school-roadmap) — C Piscine exercises  
-Focus: Memory management, pointers, low-level systems
+**Focus**: Memory management, pointers, low-level systems  
+**Current**: Shell00 (started Nov 1, 2024)
 
-**Software Engineering** — 10-Month Roadmap  
-Python for Everybody (active) • CS50-SQL Harvard (completed ✓)  
-Focus: Python, DSA, web development
+### Software Engineering — 10-Month Roadmap
+Python for Everybody (Course 2 in progress) • CS50-SQL Harvard (completed ✓)  
+**Focus**: Python, DSA, web development
+
 ### Professional Training — IEFP Portugal
 **EFA Programador Informático** (Nov 2024 - Apr 2025)  
-Advanced C • Database Management (MySQL) • PHP • Web Development  
-Focus: Three-layer architecture, practical web applications
+**Current**: Advanced C, Database Management (MySQL), PHP, Web Development  
+**Focus**: Three-layer architecture, practical web applications
 
 -----
 
