@@ -27,6 +27,10 @@ Focus: Memory management, pointers, low-level systems
 **Software Engineering** — 10-Month Roadmap  
 Python for Everybody (active) • CS50-SQL Harvard (completed ✓)  
 Focus: Python, DSA, web development
+### Professional Training — IEFP Portugal
+**EFA Programador Informático** (Nov 2024 - Apr 2025)  
+Advanced C • Database Management (MySQL) • PHP • Web Development  
+Focus: Three-layer architecture, practical web applications
 
 -----
 
@@ -58,9 +62,10 @@ Job-ready software engineer with deep fundamentals. Building toward 6 production
 
 Open to code reviews, mentorship, discussions about fundamentals or systems programming.
 
-📧 [tony101123cardoso@icloud.com](mailto:tony101123cardoso@icloud.com) • 💼 [LinkedIn](your-linkedin-link)
+📧 [tony101123cardoso@icloud.com](mailto:tony101123cardoso@icloud.com) • 💼 LinkedIn (Coming Soon)
 
-**Relocating to Bridgeport, CT**
+📍 Currently: Porto, Portugal  
+📍 Relocating: Connecticut, USA (May 2025)
 
 -----
 
