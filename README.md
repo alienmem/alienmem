@@ -32,17 +32,18 @@ Instead of rushing to frameworks, I'm mastering the foundations—C programming 
 
 ## 🎯 Featured Projects
 
-### [PHP MySQL Forum Platform](https://github.com/alienmem/php-mysql-forum-platform)
+### [PHP MySQL Forum Platform](https://github.com/alienmem/php-mysql-forum-platform) 🌐 [Live Demo](alienmem.42web.io)
 Full-stack forum with authentication, role-based access control, and admin moderation panel  
 **Tech:** PHP • MySQL • HTML/CSS • Session Management  
 **Features:** User auth, CRUD operations, soft-delete pattern, admin panel  
+**Status:** ✅ Deployed and live at http://alienmem.42web.io  
 *Built as part of IEFP Level 4 certification (6-week module)*
 
 ### [Harvard CS50 SQL - Database Projects](https://github.com/alienmem/harvard-cs50-sql)
 Complete solutions and final project from Harvard's SQL course  
 **Tech:** SQL • SQLite • Database Design  
 **Skills:** Complex queries, joins, subqueries, optimization, normalization  
-*Completed: 2024*
+*Completed: 2025*
 
 ### [École 42 Self-Study Roadmap](https://github.com/alienmem/42-school-roadmap)
 Self-directed curriculum following École 42's rigorous C programming path  
@@ -54,7 +55,7 @@ Self-directed curriculum following École 42's rigorous C programming path
 Projects from IEFP Level 4 Certification program  
 **Tech:** C • Java • Visual Basic .NET • PHP • MySQL  
 **Topics:** Distributed systems, advanced databases, web development  
-*1,150 hours professional training • Nov 2024 - Apr 2025*
+*1,150 hours professional training • Nov 2025 - Apr 2026*
 
 ---
 
@@ -69,7 +70,7 @@ Instituto de Emprego e Formação Profissional, Portugal
 Expected completion: May 2026 (includes practical internship)
 
 **Harvard CS50: Introduction to Databases with SQL** ✓  
-Completed: 2024
+Completed: 2025
 
 **Cisco C Essentials I** ✓
 
@@ -133,8 +134,9 @@ I'm always open to:
 - 📖 Learning from experienced developers
 
 **Reach out:**  
-📧 tony101123cardoso@icloud.com  
-💼 LinkedIn (Coming soon)  
+📧 Email: [tony101123cardoso@icloud.com](mailto:tony101123cardoso@icloud.com)  
+💼 LinkedIn: [a-cardoso-pro](https://www.linkedin.com/in/a-cardoso-pro/)  
+🔗 GitHub: [alienmem](https://github.com/alienmem)
 📍 Currently: Porto, Portugal | Relocating: Connecticut, USA (June 2026)
 
 ---
