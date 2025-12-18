@@ -97,15 +97,15 @@ Now I'm applying this mindset to software:
 
 ## 📊 Current Learning Path
 
-**November 2024 - March 2025: Foundation Building**
+**November 2025 - March 2026: Foundation Building**
 - ✅ IEFP training: C, Java, SQL, PHP, distributed systems
 - 🔄 École 42 Piscine: Deep C programming
 - 🔄 Algorithm fundamentals
 
-**April - May 2025: Real-World Experience**
+**April - May 2026: Real-World Experience**
 - 💼 Programming internship (IEFP requirement)
 
-**June 2025 onwards: US-Based Development**
+**June 2026 onwards: US-Based Development**
 - 🎯 Advanced algorithms (LeetCode/Codeforces)
 - 🎯 Full-stack projects
 - 🎯 Open source contributions
